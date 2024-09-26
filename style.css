@@ -1,0 +1,44 @@
+*{
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+text-decoration: none;
+list-style: none;
+}
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 120px;
+    gap: 329.42px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;  
+    & button{
+        background-color: black;
+        color: aliceblue;
+    }
+}
+   
+section {
+    display: flex;
+    justify-content: space-between;
+    padding: 10%;
+    gap: 
+       }
+
+       article{
+       
+       
+    
+      
+       }
+  
+
+
+
+
+
